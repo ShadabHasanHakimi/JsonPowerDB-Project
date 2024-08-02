@@ -13,10 +13,14 @@ This project is a web-based student enrollment form that leverages the power of 
 
 ## Illustrations
 
-1. ![Screenshot of empty form.](./Project/images/1.jpg)
-2. ![Screenshot when a new data is filled in the form.](./Project/images/2.jpg)
-3. ![When already saved data is entered, the 'Change' button activates.](./Project/images/3.jpg)
-4. ![Screenshot of the JsonPowerDB database.](./Project/images/4.jpg)
+1. Screenshot of empty form.
+![Screenshot of empty form.](./Project/images/1.jpg)
+2. Screenshot when a new data is filled in the form.
+![Screenshot when a new data is filled in the form.](./Project/images/2.jpg)
+3. When already saved data is entered, the 'Change' button activates.
+![When already saved data is entered, the 'Change' button activates.](./Project/images/3.jpg)
+4. Screenshot of the JsonPowerDB database.
+![Screenshot of the JsonPowerDB database.](./Project/images/4.jpg)
 
 ## Scope of Functionalities
 
